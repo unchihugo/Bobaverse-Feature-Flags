@@ -14,5 +14,13 @@
             "coins": 150,
             "wishes": 2
         }
-    }
+    },
+    "AUTUMN2025": {
+        "startDateTime": "2025-09-01T00:00:00Z",
+        "endDateTime": "2025-11-01T00:00:00Z",
+        "rewards": {
+            "coins": 170,
+            "wishes": 3
+        }
+    },
 }

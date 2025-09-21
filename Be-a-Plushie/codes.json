@@ -28,7 +28,7 @@
         "endDateTime": "2025-11-01T00:00:00Z",
         "rewards": {
             "coins": 500,
-            "wishes": 7
+            "wishes": 5
         }
     }
 }

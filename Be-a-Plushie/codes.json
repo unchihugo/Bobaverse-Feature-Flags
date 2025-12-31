@@ -25,10 +25,18 @@
     },
     "DISCORDEXCLUSIVE1": {
         "startDateTime": "2025-09-01T00:00:00Z",
-        "endDateTime": "2025-11-01T00:00:00Z",
+        "endDateTime": "2026-02-01T00:00:00Z",
         "rewards": {
             "coins": 500,
             "wishes": 5
+        }
+    },
+    "HAPPY2026": {
+        "startDateTime": "2025-12-30T00:00:00Z",
+        "endDateTime": "2026-02-01T00:00:00Z",
+        "rewards": {
+            "coins": 150,
+            "wishes": 3
         }
     }
 }
